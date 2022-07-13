@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chicco4/tdd-practice/issues"
   },
-  "homepage": "https://github.com/chicco4/tdd-practice#readme"
+  "homepage": "https://github.com/chicco4/tdd-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6"
+  }
 }
